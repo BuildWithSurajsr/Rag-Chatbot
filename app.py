@@ -82,7 +82,7 @@ def main():
     if not initialize_session_state():
         return
     
-    st.title("📚 PDF Chat Assistant")
+    st.title("YU Chat Assistant")
     
     # Sidebar for document upload and controls
     with st.sidebar:
