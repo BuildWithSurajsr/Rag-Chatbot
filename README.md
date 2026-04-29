@@ -4,21 +4,6 @@ A production-ready Retrieval Augmented Generation (RAG) chatbot that answers que
 
 ---
 
-## Demo
-
-
-
-https://github.com/user-attachments/assets/a4607370-360f-432a-8dec-4b19ca6e4d99
-
-
-
-
-> Click the image above to watch a short demo of the chatbot in action.
-
-
-
----
-
 ## Features
 
 - **PDF Extraction:** Upload and process multiple PDFs; text is extracted using PyPDF2.
